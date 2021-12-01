@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emanuelle!
-- 👀 I’m interested in Front-end!
+- 👀 I’m interested in Full-stack!
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I'm trying to enter college in computer engineering! Wish me luck!
 
