@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emanuelle!
 - 👀 I’m interested in Full-stack!
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ I'm trying to enter college in computer engineering! Wish me luck!
+- 🌱 I’m currently learning C
+- 💞️ I'm currently a CS major!
 
 <!---
 Emnll/Emnll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
