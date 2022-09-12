@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Emanuelle!
-- 👀 I’m interested in Full-stack!
-- 🌱 I’m currently learning Python
-- 💞️ I'm currently a CS major!
-- Going to upload some code soon, after it is all properly commented!
+- 👋 Olá, meu nome é Emanuelle!
+- 👀 Eu tenho interesse em ciência de dados e desenvolvimento de jogos!
+- 🌱 No momento estou aprendendo python.
+- 💞️ Atualmente estudo ciência da computação na faculdade!
+- Pretendo continuamente colocar programas e projetos no meu repositório!
 
 <!---
 Emnll/Emnll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
