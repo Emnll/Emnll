@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Emanuelle!
-- 👀 Eu tenho interesse em desenvolvimento de software e de jogos!
+- 👀 Eu tenho interesse em desenvolvimento de software e ciência de dados!
 - 💞️ Atualmente estudo ciência da computação!
 - Pretendo continuamente colocar programas e projetos no meu repositório!
 
